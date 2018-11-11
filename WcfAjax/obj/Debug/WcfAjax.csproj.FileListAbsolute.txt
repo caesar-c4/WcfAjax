@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WcfAjax\WcfAjax\bin\WcfAjax.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WcfAjax\WcfAjax\bin\WcfAjax.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WcfAjax\WcfAjax\bin\WcfAjax.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WcfAjax\WcfAjax\obj\Debug\WcfAjax.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WcfAjax\WcfAjax\obj\Debug\WcfAjax.pdb
